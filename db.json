@@ -1,0 +1,39 @@
+{
+  "songs":[
+    {
+      "id": 0,
+      "name":"Bigcityboy",
+      "singer":"Binz",
+      "image": "Bigcityboy_Binz.jpg",
+      "file": "Bigcityboy_Binz.mp3"
+    },
+    {
+      "id": 1,
+      "name":"Bigcityboy",
+      "singer":"Binz",
+      "image": "Bigcityboy_Binz.jpg",
+      "file": "Bigcityboy_Binz.mp3"
+    },
+    {
+      "id": 2,
+      "name":"Bigcityboy",
+      "singer":"Binz",
+      "image": "Bigcityboy_Binz.jpg",
+      "file": "Bigcityboy_Binz.mp3"
+    },
+    {
+      "id": 3,
+      "name":"Bigcityboy",
+      "singer":"Binz",
+      "image": "Bigcityboy_Binz.jpg",
+      "file": "Bigcityboy_Binz.mp3"
+    },
+    {
+      "id": 4,
+      "name":"Bigcityboy",
+      "singer":"Binz",
+      "image": "Bigcityboy_Binz.jpg",
+      "file": "Bigcityboy_Binz.mp3"
+    }
+  ]
+}
