@@ -9,10 +9,10 @@
     },
     {
       "id": 1,
-      "name":"Bigcityboi",
-      "singer":"Binz",
-      "image": "./assets/img/Bigcityboi_Binz.jpg",
-      "file": "./assets/file/Bigcityboi_Binz.mp3"
+      "name":"BlackJack",
+      "singer":"Soobin & Binz",
+      "image": "./assets/img/BlackJack_Soobin_Binz.png",
+      "file": "./assets/file/BlackJack_Soobin_Binz.mp3"
     },
     {
       "id": 2,
@@ -23,10 +23,10 @@
     },
     {
       "id": 3,
-      "name":"Bigcityboi",
-      "singer":"Binz",
-      "image": "./assets/img/Bigcityboi_Binz.jpg",
-      "file": "./assets/file/Bigcityboi_Binz.mp3"
+      "name":"BlackJack",
+      "singer":"Soobin & Binz",
+      "image": "./assets/img/BlackJack_Soobin_Binz.png",
+      "file": "./assets/file/BlackJack_Soobin_Binz.mp3"
     },
     {
       "id": 4,
@@ -37,10 +37,10 @@
     },
     {
       "id": 5,
-      "name":"Bigcityboi",
-      "singer":"Binz",
-      "image": "./assets/img/Bigcityboi_Binz.jpg",
-      "file": "./assets/file/Bigcityboi_Binz.mp3"
+      "name":"BlackJack",
+      "singer":"Soobin & Binz",
+      "image": "./assets/img/BlackJack_Soobin_Binz.png",
+      "file": "./assets/file/BlackJack_Soobin_Binz.mp3"
     },
     {
       "id": 6,
@@ -51,31 +51,10 @@
     },
     {
       "id": 7,
-      "name":"Bigcityboi",
-      "singer":"Binz",
-      "image": "./assets/img/Bigcityboi_Binz.jpg",
-      "file": "./assets/file/Bigcityboi_Binz.mp3"
-    },
-    {
-      "id": 8,
-      "name":"Bigcityboi",
-      "singer":"Binz",
-      "image": "./assets/img/Bigcityboi_Binz.jpg",
-      "file": "./assets/file/Bigcityboi_Binz.mp3"
-    },
-    {
-      "id": 9,
-      "name":"Bigcityboi",
-      "singer":"Binz",
-      "image": "./assets/img/Bigcityboi_Binz.jpg",
-      "file": "./assets/file/Bigcityboi_Binz.mp3"
-    },
-    {
-      "id": 10,
-      "name":"Bigcityboi",
-      "singer":"Binz",
-      "image": "./assets/img/Bigcityboi_Binz.jpg",
-      "file": "./assets/file/Bigcityboi_Binz.mp3"
+      "name":"BlackJack",
+      "singer":"Soobin & Binz",
+      "image": "./assets/img/BlackJack_Soobin_Binz.png",
+      "file": "./assets/file/BlackJack_Soobin_Binz.mp3"
     }
   ]
 }
